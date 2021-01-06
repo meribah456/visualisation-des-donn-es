@@ -1,0 +1,30 @@
+#Logo{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Marck Script', cursive;
+  @import url('https://fonts.googleapis.com/css?family=Marck+Script|Montserrat&display=swap');
+  font-size: 38px;
+}
+#welcome{
+  font-size: 18px;
+
+}
+#text{
+  @import url('https://fonts.googleapis.com/css?family=Bad+Script&display=swap');
+  font-family: 'Bad Script', cursive;
+  
+}
+#text1{
+  font-family: 'Montserrat', sans-serif;
+  @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+}
+#text2{
+  font-family: 'Cookie', cursive;
+  @import url('https://fonts.googleapis.com/css?family=Cookie&display=swap');
+  font-size: 22px;
+}
+#sidebar{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Marck Script', cursive;
+  @import url('https://fonts.googleapis.com/css?family=Marck+Script|Montserrat&display=swap');
+  font-size: 22px;
+}

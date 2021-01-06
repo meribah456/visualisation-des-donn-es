@@ -1,0 +1,41 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+[data-theme="dark"] .dark-mode-files {
+	background-color: #222 !important;
+	color:white;
+}
+[data-theme="dark"] .dark-mode-files-header{
+	background-color:#4285f4;
+}
+[data-theme="dark"] .dark-mode-text-hover:hover{
+	color:#33b5e5;
+}
+[data-theme="dark"] #Logo{
+	color:#33b5e5;
+}
+[data-theme="dark"] #text2{
+	color:#33b5e5;
+}
+[data-theme="dark"] #text1{
+	color:#6fd1f5;
+}
+[data-theme="dark"] #text{
+	color:#30a7d3;
+}
+[data-theme="dark"] #sidebar{
+	color:#30a7d3;
+}
